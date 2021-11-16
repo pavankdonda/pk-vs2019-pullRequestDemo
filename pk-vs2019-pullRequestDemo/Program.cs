@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace pk_vs2019_pullRequestDemo
 {
-    public class Program
+    public class Program6
     {
         public static void Main(string[] args)
         {
